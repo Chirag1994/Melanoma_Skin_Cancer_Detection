@@ -27,4 +27,4 @@ The project has the following structure:
 
 ---
 
-The Web Application is currently deployed at Hugging Face Spaces [here](https://huggingface.co/spaces/Chirag1994/Melanoma_Skin_Cancer_Detection_App/tree/main).
+The Web Application is currently deployed at Hugging Face Spaces [here](https://huggingface.co/spaces/Chirag1994/Melanoma_Skin_Cancer_Detection_App).
